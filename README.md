@@ -4,7 +4,7 @@
 
 | Descripción | Comando | Observaciones | 
 | :-------- | :------- | :------- | 
-| Eliminia solo fichero que han sido modificados hace más de 4 dias | `find /ruta/directorio -type f -mtime +4 -delete`|  |  
+| Eliminia solo los ficheros que han sido modificados hace más de 4 dias | `find /ruta/directorio -type f -mtime +4 -delete`|  |  
 
 
 ## Procesamiento de Texto y filtros
